@@ -1,4 +1,4 @@
-# Artificial Neural Network Playlit annotations
+# Artificial Neural Network Playlist annotations
 
 
 1. Annotations used for Youtube Videos shared here
